@@ -316,6 +316,7 @@ button:active {
     width: 100%;
     height: auto;
     object-fit: cover;
+    border-radius: 8px;
 }
 
 @media (max-width: 992px) {
@@ -358,6 +359,7 @@ button:active {
     width: 100%;
     height: auto;
     object-fit: cover;
+    border-radius: 8px;
 }
 
 .principle-text {
@@ -429,6 +431,7 @@ button:active {
     overflow: hidden;
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
     transition: transform 0.4s ease;
+    border-radius: 8px;
 }
 
 .service-card:hover {
@@ -446,6 +449,7 @@ button:active {
     height: 100%;
     object-fit: cover;
     transition: transform 0.5s ease;
+    
 }
 
 .service-card:hover img {
@@ -522,6 +526,7 @@ button:active {
     height: 100%;
     object-fit: cover;
     transition: transform 0.6s ease;
+    border-radius: 8px;
 }
 
 .project-card:hover img {
